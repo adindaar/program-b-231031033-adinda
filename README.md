@@ -5,4 +5,4 @@
 <div> Prodi: Sistem Informasi </div>
 
 * Prakrtikum 1: Pengenalan Variabel `Praktikum-b1.py`
-* * Prakrtikum 1: Operator `Praktikum-b2.py`
+* Prakrtikum 1: Operator `Praktikum-b2.py`
