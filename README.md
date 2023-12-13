@@ -1,4 +1,4 @@
-# praktikumpengantar pemrograman
+# praktikum pengantar pemrograman
 
 <h1> Nama:Adinda Aulia Rahmi </h1>
 <h1> Nim: 231031033 </h1>
