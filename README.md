@@ -14,7 +14,7 @@
 * Praktikum 8 : Perulangan 2 `praktikum-b8.py`
 * Praktikum 9 : Dictionaries 
 * Praktikum 10 : Fungsi 
-* Praktikum 11 : 
+* Praktikum 11 : Fibonacci
 * Latihan 1 : if dan else 
 * Latihan 2 : if dan else 
 * Latihan 3 : if dan else
