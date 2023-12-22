@@ -12,14 +12,14 @@
 * Praktikum 6 : List dan tuple 2 `praktikum-b6.py`
 * Praktikum 7 : Perulangan 1 `praktikum-b7.py`
 * Praktikum 8 : Perulangan 2 `praktikum-b8.py`
-* Praktikum 9 : Dictionaries 
-* Praktikum 10 : Fungsi 
-* Praktikum 11 : Fibonacci
-* Latihan 1 : if dan else 
-* Latihan 2 : if dan else 
-* Latihan 3 : if dan else
-* Latihan 4 : if dan else
-* Tugas 1 : Cek angka ganjil atau genap 
+* Praktikum 9 : Dictionaries `231031033-Adinda-praktikum-b9.py`
+* Praktikum 10 : Fungsi `praktikum-b10.py`
+* Praktikum 11 : Fibonacci `231031033-Adinda-praktikum-b11.py`
+* Latihan 1 : if dan else `231031033-Adinda-latihan1.py`
+* Latihan 2 : if dan else `231031033-Adinda-latihan2.py`
+* Latihan 3 : if dan else `231031033-Adinda-latihan3.py`
+* Latihan 4 : if dan else `231031033-Adinda-latihan4.py`
+* Tugas 1 : Cek angka ganjil atau genap `231031033-Adinda-tugas1.py`
 * Tugas 2 : Penjumlahan
 * Tugas 3 : Menghitung selisih waktu 
 * Tugas 4 : Method String 
